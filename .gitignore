@@ -5,3 +5,4 @@
 *build/
 *.bin
 *.lock
+/viikko6/QueryLanguage/.nb-gradle/
